@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠 Инструменты и технологии (примерный список, удали лишнее/добавь свое)
+### 🛠 Инструменты и технологии
 *   **ОС:** Linux (Ubuntu/Kali), Windows
 *   **Сети & Анализ:** Wireshark, Nmap, TCPdump
 *   **Web & Pentest:** Burp Suite, OWASP Top 10, Metasploit
