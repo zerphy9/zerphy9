@@ -50,7 +50,7 @@
 ## 📂 Мои репозитории
 
 - **[Cybersecurity Notes](https://github.com/zerphy9/cybersecurity-notes)** — конспекты и справочные материалы по информационной безопасности.
-- **[Python Notes & Practice](https://github.com/zerphy9/python)** — конспекты по Python, учебные задачи и небольшие проекты.
+- **[Python Notes & Practice](https://github.com/zerphy9/python-notes-n-practice)** — конспекты по Python, учебные задачи и небольшие проекты.
 
 ## 🌱 Мой подход к обучению
 
